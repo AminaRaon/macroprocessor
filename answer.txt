@@ -1,0 +1,10 @@
+START 1000h
+start:  ADD   zero
+  NEG  rez
+  LDA  bb, ccc
+  ADD  ccc, a
+zero:  WORD  0
+wsz:  WORD  3
+lel:  WORD  7
+rez:  RESW  1
+  END   start

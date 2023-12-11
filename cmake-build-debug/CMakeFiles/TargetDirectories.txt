@@ -1,0 +1,3 @@
+Z:/prog/laba4/cmake-build-debug/CMakeFiles/laba4.dir
+Z:/prog/laba4/cmake-build-debug/CMakeFiles/edit_cache.dir
+Z:/prog/laba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
